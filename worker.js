@@ -10,6 +10,7 @@ async function handleRequest(request) {
     const mappings = {
         "/twitter": "https://twitter.com/vpetersson",
         "/linkedin": "https://www.linkedin.com/in/vpetersson/",
+        "/github": "https://github.com/vpetersson",
         "/nowv-apple": "https://podcasts.apple.com/us/podcast/nerding-out-with-viktor/id1722663295",
         "/nowv-spotify": "https://podcasters.spotify.com/pod/show/nerding-out-with-viktor",
         "/nowv-youtube": "https://www.youtube.com/@nerdingoutwithviktor",
