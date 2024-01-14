@@ -12,7 +12,7 @@ async function handleRequest(request) {
         "/linkedin": "https://www.linkedin.com/in/vpetersson/",
         "/github": "https://github.com/vpetersson",
         "/ssh": "https://github.com/vpetersson.keys",
-        "/pgp": "https://github.com/vpetersson.gpg",
+        "/ggp": "https://github.com/vpetersson.gpg",
         "/pgp": "https://github.com/vpetersson.gpg",
         "/nowv-apple": "https://podcasts.apple.com/us/podcast/nerding-out-with-viktor/id1722663295",
         "/nowv-spotify": "https://podcasters.spotify.com/pod/show/nerding-out-with-viktor",
