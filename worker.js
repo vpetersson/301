@@ -17,6 +17,7 @@ async function handleRequest(request) {
         "/nowv-apple": "https://podcasts.apple.com/us/podcast/nerding-out-with-viktor/id1722663295",
         "/nowv-spotify": "https://podcasters.spotify.com/pod/show/nerding-out-with-viktor",
         "/nowv-youtube": "https://www.youtube.com/@nerdingoutwithviktor",
+        "/nowv-amazon": "https://music.amazon.com/podcasts/c8e79c21-2dde-4597-b9fb-257ecbc2bf29/nerding-out-with-viktor",
     };
 
     const target = mappings[path];
