@@ -1,0 +1,13 @@
+url,target,status
+/twitter,https://twitter.com/vpetersson,301
+/linkedin,https://www.linkedin.com/in/vpetersson/,301
+/github,https://github.com/vpetersson,301
+/mastadon,https://hachyderm.io/@vpetersson,301
+/ssh,https://github.com/vpetersson.keys,301
+/ggp,https://github.com/vpetersson.gpg,301
+/pgp,https://github.com/vpetersson.gpg,301
+/nowv-apple,https://podcasts.apple.com/us/podcast/nerding-out-with-viktor/id1722663295,301
+/nowv-spotify,https://podcasters.spotify.com/pod/show/nerding-out-with-viktor,301
+/nowv-youtube,https://www.youtube.com/@nerdingoutwithviktor,301
+/nowv-amazon,https://music.amazon.com/podcasts/c8e79c21-2dde-4597-b9fb-257ecbc2bf29/nerding-out-with-viktor,301
+
